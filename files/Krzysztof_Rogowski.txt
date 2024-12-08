@@ -1,0 +1,150 @@
+Krzysztof Rogowski
+Phone: (647) 608 0264
+Email: kjrogowski@yahoo.com
+
+Professional Profile:
+
+13+ years of expertise in Solution Architecture, Data Architecture, Analytics and Data Engineering;
+Focusing on Business Intelligence, Data Warehousing, Data Lake Warehouse, OneLake and Analytics
+Skilled in Agile BI methodologies and proficient in Microsoft Azure ecosystem and cloud technologies
+Experienced with Azure, Databricks, PySpark, Synapse, Azure Data Factory, Azure Fabric + Power BI, SQL Server, Informatica, Cognos, and more
+Proficient in designing Solution Architecture, Data Architecture, defining Development Strategy, Test Strategy, Automated Deployment via DevOps and implementation of solution.
+Strong ability to gather and analyze business requirements, apply problem-solving skills, governance, security policies, understand technical profile and recommend a solution that fits within current tech stack and approach.
+Effective communicator and team player with a track record of successfully managing projects across various industries including Government, Telecommunication, Insurance, and Military sectors
+
+Academic Profile:
+
+Honors Bachelor of Computer Science with Software Engineering
+University of Waterloo – Waterloo, Ontario
+
+Employment Experience:
+
+Role: Senior Data Architect / Senior Data Engineer
+Term: 02/2014 to Present
+Company: Int3grate Tech Inc
+Location: Toronto, ON, Canada
+
+Consultant specializing in Azure MS BI Platform, Databricks, PySpark, Synapse, and Power BI Development, providing expertise to clients.
+Implemented Azure Storage with Databricks Delta Lake and Synapse SQL Pool, enabling efficient data management and ML capabilities.
+Developed Power BI reports on Azure, utilizing Sharepoint.com and SQL Server Services, while optimizing performance using DAX Studio and SQL Server Profiler.
+Conducted Proof of Concept (POC) for Synapse SQL Pool deployment, enhancing client data processing capabilities.
+Contributed as a consultant at an Energy advanced analytics company, focusing on energy usage management for large corporate and industrial clients through advanced analytics and forecasting.
+Utilized Microsoft BI Framework with ASP.NET, REST service, Entity Framework, and SSIS deployed on Azure Cloud, along with other technologies like Pentaho and MySQL.
+Provided consulting services to a Fashion social media company and a platform similar to 'Uber' for Massage and rehabilitation services.
+----------------------------------------------------------------------------------------------------
+Role: Senior Solution Designer / Senior Data Engineer
+Term: 11/2022 to 04/2024, 04/2024 – present
+Company: Ontario Gov
+Location: Toronto, ON, Canada
+
+Buildout 1st project: Delta Warehouse following MS medallion Architecture with Azure ADF, Databricks, PBI.  Delta Data Lakehouse, 200+ source tables from Oracle, many files, several marts for dedicated reporting. RLS for external users.
+Buildout 2st project: Dashboards/Reports following MS medallion Architecture on Lake with Azure Fabric and Power BI.  ~60 source tables from Oracle, csv files, json files, several marts for dedicated reporting.
+Project 1st: Consultant specializing in Azure MS BI Platform, Databricks, PySpark, Synapse, and Power BI Development, providing expertise and implement.
+Project 2nd: Consultant different team specializing in Azure MS BI Platform, Fabric + Power BI Development, providing expertise and implement.
+Migrate out of Informatica PowerCenter, PL/SQL, Cognos FM/ReportNet/ETL, Oracle to Azure.
+Implemented Azure Storage with Databricks Delta Lake and Synapse SQL Pool, enabling efficient data management and ML capabilities.
+Developed Power BI reports on Azure, Data Modeling, utilizing Sharepoint.com and SQL Server Services, while optimizing performance using DAX Studio and SQL Server Profiler.
+----------------------------------------------------------------------------------------------------
+Role:  Solution Designer / Development Lead
+Term: 05/2021 to 11/2022
+Company: Ministry of Education(EDU) – Community Services Cluster (CSC) - DDSB
+Location: Toronto, ON, Canada & Remote
+
+Spearheaded the Housing and Homelessness Business Intelligence (HHBI) project, focusing on modernizing the analytics solution.
+Designed, developed, data modelling, and migrated solutions using Power BI, Sharepoint.com, and AzureDev Ops.
+Successfully conducted Proof of Concept (POC) migration to Azure, leveraging Azure Data Factory, Synapse, Serverless SQL Pool, Azure Blob storage, and Azure Analysts Services.
+Developed Power BI dashboards and data sets from various sources, resolved data related issues, data quality issues, employed Power Query, DAX, M, and composite models, data modeling.
+Implemented Power BI artifacts and workspaces for efficient report management and sharing.
+Proposed and executed Power BI report designs, including formatting, navigation, and JSON templates.
+Migrate out of Oracle, Cognos, Informatica Power Center to new MS BI Platform.
+Implemented Row Level Security (RLS) on Power BI reports to enhance data security.
+Configured automated deployment of Power BI artifacts and scheduled data refreshes.
+Designed complex Power Designer Models focusing on Star schema.
+Maintained Power BI reports, dashboards, and data sets, ensuring alignment with IT standards and requirements.
+Collaborated with business stakeholders to capture requirements and liaised with technical teams to ensure their implementation.
+Facilitated regular meetings with business users, management, architecture, and IT teams to discuss requirements and ensure alignment.
+Coordinated deliverables with various technology teams, led solution design activities, and conducted knowledge transfer sessions.
+Created and maintained key knowledge transfer documents to facilitate onboarding of new team members.
+----------------------------------------------------------------------------------------------------
+Role: Data Consultant / Solution Designer / Data Engineer Lead
+Term: 05/2019 to 03/2021
+Company: Ministry of Education(EDU) – Community Services Cluster (CSC) - DDSB
+Location: Toronto, ON, Canada & Remote
+
+Played pivotal roles in high-impact initiatives like PERL and the Gallery Hub, integrating external data sources into a unified catalog and modernizing reporting frameworks with Azure BI solutions and .NET-based architectures.
+Led the Housing and Homelessness Business Intelligence (HHBI) project, developing a Land Use advanced analytics solution using the Microsoft BI Stack.
+Designed, data modeled and developed solutions utilizing Power BI, Sharepoint.com, and SSIS for ETL processes. Optimized performance and built out a data issue resolution/data quality resolution approach based on newly established governance process.
+Managed the HHBI portal on Sharepoint/Sharepoint Online, ensuring WCAB AA compliance for internal and external users.
+Successfully completed solution design, development, and deployment, adhering to internal standards and requirements.
+Established stable code development and deployment processes using Team Foundation Server and later migrated to Microsoft Azure DevOps.
+Implemented complex row-level security using DAX/MDX/Roles within multi-dimensional and Power BI models.
+Collaborated with technology teams to migrate/integrate parts of the solution to Azure for a Hybrid cloud solution.
+Optimized SQL and MDX queries, as well as DAX queries, to improve performance.
+Provided guidance to business users and IT teams on various technical issues and solutions.
+Led development teams following SDLC processes, using a mix of Waterfall and Agile methodologies.
+Designed and built a custom querying solution using .NET framework, ASP.NET, MVC, and web services.
+Migrate out of Oracle, Cognos, Informatica Power Center.
+Created REST API solutions for Azure Analysis Services TAB cube data extraction.
+Produced technical design documents, solution designs, and detailed solution documents.
+Conducted knowledge transfer sessions and ensured documentation availability for new team members.
+Established CI/CD processes in Microsoft Azure DevOps for fast and accurate code deployment.
+Utilized PowerShell for Azure AAD queries and configuration.
+Managed Informatica updates and designed/implemented new Rest API interfaces for specialized use cases.
+----------------------------------------------------------------------------------------------------
+Role: Data Engineer Consultant
+Term: 03/2019 to 05/2019
+Company: CDIC
+Location: Toronto, ON, Canada & Remote
+
+Contracted to temporarily bridge staffing gaps during the recruitment of two full-time positions.
+Provided support for a complex MS BI Analytics solution, managing code and tasks on DevOps while overseeing deployment scripts.
+Resolved ETL production issues related to large daily data feeds for the organization.
+Implemented fixes and additions to calculations, measures, and drill-through capabilities within existing Multidimensional cubes.
+----------------------------------------------------------------------------------------------------
+Role: Data Engineer Consultant / Solution Designer / Data Architect
+Term: 04/2014 to 03/2019
+Company: Ministry of Education(EDU) – Community Services Cluster (CSC) - DDSB
+Location: Toronto, ON, Canada 
+
+Played pivotal roles in high-impact initiatives like PERL and the Gallery Hub, integrating external data sources into a unified catalog and modernizing reporting frameworks with Azure BI solutions and .NET-based architectures.  Designer and Data modeled solution.
+Actively ensured compliance with Go-ITS Standards by engaging with key teams on infrastructure, security, and privacy.
+Spearheaded the implementation of CI/CD processes in diverse environments, including Unix/Informatica/Oracle and TFS, streamlining code deployment and enhancing solution reliability.
+Led testing efforts encompassing Unit Testing, System Integration Testing (SIT), System Acceptance Testing (SAT), and User Acceptance Testing (UAT) to ensure robustness and user satisfaction.
+Guided stable code development and deployment processes, conducting reviews and providing mentorship to foster team growth.
+Collaborated closely with stakeholders across business, management, architecture, and IT teams to align solutions with requirements and objectives.
+Orchestrated solution design activities and implemented enhancements for ETL and Microsoft BI projects, optimizing query performance and efficiency.
+Produced high-quality technical documentation, including solution designs and architecture documents, to support project success and facilitate knowledge transfer.
+Established streamlined documentation processes and version control repositories in Sharepoint for effective project management and information sharing.
+-----------------------------------------------------------------------------------------------------
+Role: Solution Designer/ Solution Architect / Development Lead
+Term: 12/2009 to 02/2014
+Company: CIBC - Wealth Management Technology
+Location: Toronto, ON, Canada
+
+Led application design and development, overseeing high-level design, sub-component design, solution development, prototyping, and vendor technical solution management.
+Managed vendor development teams and ensured alignment with business expectations to deliver adaptable solutions meeting evolving business needs.
+Designed technical infrastructure for applications, including databases, programming languages, utilities, and testing approaches.
+Offered comprehensive knowledge of platforms and applications across various technologies to support business objectives.
+Conducted analysis of project and technical risks to inform business recommendations.
+Provided application solutions and contributed to vendor selection and evaluation processes.
+Worked on Informatica/Cognos/Oracle Development and Migration projects.
+Estimated project work effort, particularly in scenarios involving new technology without established guidelines.
+----------------------------------------------------------------------------------------------------
+Role: Metadata Development Lead / Developer Analyst III / Senior Data Engineer
+Term: 10/2006 to 11/2009
+Company: Telus
+Location: Toronto, ON, Canada
+
+Hand on experience at every level of application development in a variety of projects in the Data Warehouse primarily developing in: Informatica 8.1/8.6 and Oracle 9i.
+Performed role of subject matter expert on three critical systems; namely, the Marketing Data-mart, a reporting system for large customer and a security management system.
+Performed the lead architect role on large initiative aimed at transitioning the support of over 100 applications from a sunset Data Warehouse department to our department.  Drove application transition plan, motivated and advised team members.
+Gained experience working on initiatives for Marketing, Finance, Internal administration & management and various reporting initiatives. 
+
+Technical Experience:
+
+BI Suites: Power BI, Power BI Report Server, Databricks, SSAS, SSRS, Cognos 8, 10 
+ETL Tools: Databricks, Synapse, ADF, Fabric, PySpark, SSIS, Informatica PowerCenter 7-10, Pentaho, IDQ
+Database: SQL Server 2012-2019, ORACLE 8i/9i/10g/11g/12c, DB2 (JDE E1), Azure Delta Lake, Azure Data Lake, Hadoop, Azure Storage 
+Languages: DAX, python, scala, MDM, Power Query, M, SQL, PL/SQL (DDL & DML), C#, Power Shell, Java, XML, JSP, HTML & ASP, YAML, BICEP
+Other Tech: Azure, Azure DevOps, Azure B&D, GIT, DAX Studio, Tabular Editor, SQL Server Profiler, SQL Server Profiler, PBIDS, Sharepoint.com, Sharepoint, REST API, ASP.NET
+Other Tools: Power Designer, MS Project, VSS, MS Office, Visual Studio 2015, 2017, 2019, MS Visio, ERWin, Data Quality
